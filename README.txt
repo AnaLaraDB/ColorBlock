@@ -1,0 +1,1 @@
+This little app shows a random color with a few lines a code and Voilà.
